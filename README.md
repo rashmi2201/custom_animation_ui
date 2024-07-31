@@ -1,6 +1,8 @@
 # custom_animation_ui
 
 A new Flutter project.
+# Screenshot:
+<img src="https://github.com/rashmi2201/custom_animation_ui/blob/main/assets/outputs/Screenshot_1722409973.png" height="400">
 
 ## Getting Started
 
